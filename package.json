@@ -1,0 +1,18 @@
+{
+  "name": "idcodegenerator",
+  "version": "0.0.1",
+  "description": "This package includes features for generating unique IDs and One-Time Passwords (OTPs) with customizable lengths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "otp",
+    "id",
+    "code",
+    "node",
+    "express"
+  ],
+  "author": "Ezekiel Adejobi",
+  "license": "MIT"
+}
