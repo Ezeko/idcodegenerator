@@ -1,6 +1,6 @@
 {
   "name": "idcodegenerator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This package offers powerful features for generating unique IDs and One-Time Passwords (OTPs) with customizable lengths, enhancing security and flexibility for various applications.",
   "main": "src/index.js",
   "scripts": {
