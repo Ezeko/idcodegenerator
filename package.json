@@ -11,7 +11,10 @@
     "id",
     "code",
     "node",
-    "express"
+    "express",
+    "uniqueID",
+    "alphanumeric code",
+    "alphabetic code"
   ],
   "author": "Ezekiel Adejobi",
   "license": "MIT"

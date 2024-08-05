@@ -1,3 +1,11 @@
+/**
+ * 
+ * @param {int} length integer 
+ * @param {bool} isId boolean
+ * @param {bool} alphabetOnly boolean 
+ * @returns string
+ */
+ 
 exports.generate = (length, isId = false, alphabetOnly = false) => {
     try {
         let result = '';
@@ -13,7 +21,7 @@ exports.generate = (length, isId = false, alphabetOnly = false) => {
         for (var i = length; i > 0; --i){
             result += chars[Math.floor(Math.random() * chars.length)];
         }
-            return result;
+        return result;
     } catch( err ){
         return "Something Happened, could not generate idCode"
     } 
